@@ -1,0 +1,15 @@
+CC
+CD
+DT
+EX
+IN
+JJ_cluster
+MD
+N_cluster
+PDT
+POS
+RB_cluster
+RP
+TO
+V_cluster
+W_cluster

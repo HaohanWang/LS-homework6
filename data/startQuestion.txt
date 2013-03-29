@@ -1,0 +1,15 @@
+\item Does this sentence start with CC?
+\item Does this sentence start with CD?
+\item Does this sentence start with DT?
+\item Does this sentence start with EX?
+\item Does this sentence start with IN?
+\item Does this sentence start with JJ_cluster?
+\item Does this sentence start with MD?
+\item Does this sentence start with N_cluster?
+\item Does this sentence start with PDT?
+\item Does this sentence start with POS?
+\item Does this sentence start with RB_cluster?
+\item Does this sentence start with RP?
+\item Does this sentence start with TO?
+\item Does this sentence start with V_cluster?
+\item Does this sentence start with W_cluster?

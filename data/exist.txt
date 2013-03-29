@@ -1,0 +1,244 @@
+\item Does this sentence contains (?
+\item Does this sentence contains )?
+\item Does this sentence contains ,?
+\item Does this sentence contains .?
+\item Does this sentence contains :?
+\item Does this sentence contains CC?
+\item Does this sentence contains CD?
+\item Does this sentence contains DT?
+\item Does this sentence contains EX?
+\item Does this sentence contains IN?
+\item Does this sentence contains JJ?
+\item Does this sentence contains JJR?
+\item Does this sentence contains JJS?
+\item Does this sentence contains MD?
+\item Does this sentence contains NN?
+\item Does this sentence contains NNP?
+\item Does this sentence contains NNPS?
+\item Does this sentence contains NNS?
+\item Does this sentence contains POS?
+\item Does this sentence contains PRP?
+\item Does this sentence contains PRP\$?
+\item Does this sentence contains RB?
+\item Does this sentence contains RBR?
+\item Does this sentence contains RP?
+\item Does this sentence contains TO?
+\item Does this sentence contains VB?
+\item Does this sentence contains VBD?
+\item Does this sentence contains VBG?
+\item Does this sentence contains VBN?
+\item Does this sentence contains VBP?
+\item Does this sentence contains VBZ?
+\item Does this sentence contains WDT?
+\item Does this sentence contains WP?
+\item Does this sentence contains WRB?
+\item Does this sentence contains CC and CD?
+\item Does this sentence contains CC and DT?
+\item Does this sentence contains CC and EX?
+\item Does this sentence contains CC and IN?
+\item Does this sentence contains CC and JJ_cluster?
+\item Does this sentence contains CC and MD?
+\item Does this sentence contains CC and N_cluster?
+\item Does this sentence contains CC and PDT?
+\item Does this sentence contains CC and POS?
+\item Does this sentence contains CC and RB_cluster?
+\item Does this sentence contains CC and RP?
+\item Does this sentence contains CC and TO?
+\item Does this sentence contains CC and V_cluster?
+\item Does this sentence contains CC and W_cluster?
+\item Does this sentence contains CD and CC?
+\item Does this sentence contains CD and DT?
+\item Does this sentence contains CD and EX?
+\item Does this sentence contains CD and IN?
+\item Does this sentence contains CD and JJ_cluster?
+\item Does this sentence contains CD and MD?
+\item Does this sentence contains CD and N_cluster?
+\item Does this sentence contains CD and PDT?
+\item Does this sentence contains CD and POS?
+\item Does this sentence contains CD and RB_cluster?
+\item Does this sentence contains CD and RP?
+\item Does this sentence contains CD and TO?
+\item Does this sentence contains CD and V_cluster?
+\item Does this sentence contains CD and W_cluster?
+\item Does this sentence contains DT and CC?
+\item Does this sentence contains DT and CD?
+\item Does this sentence contains DT and EX?
+\item Does this sentence contains DT and IN?
+\item Does this sentence contains DT and JJ_cluster?
+\item Does this sentence contains DT and MD?
+\item Does this sentence contains DT and N_cluster?
+\item Does this sentence contains DT and PDT?
+\item Does this sentence contains DT and POS?
+\item Does this sentence contains DT and RB_cluster?
+\item Does this sentence contains DT and RP?
+\item Does this sentence contains DT and TO?
+\item Does this sentence contains DT and V_cluster?
+\item Does this sentence contains DT and W_cluster?
+\item Does this sentence contains EX and CC?
+\item Does this sentence contains EX and CD?
+\item Does this sentence contains EX and DT?
+\item Does this sentence contains EX and IN?
+\item Does this sentence contains EX and JJ_cluster?
+\item Does this sentence contains EX and MD?
+\item Does this sentence contains EX and N_cluster?
+\item Does this sentence contains EX and PDT?
+\item Does this sentence contains EX and POS?
+\item Does this sentence contains EX and RB_cluster?
+\item Does this sentence contains EX and RP?
+\item Does this sentence contains EX and TO?
+\item Does this sentence contains EX and V_cluster?
+\item Does this sentence contains EX and W_cluster?
+\item Does this sentence contains IN and CC?
+\item Does this sentence contains IN and CD?
+\item Does this sentence contains IN and DT?
+\item Does this sentence contains IN and EX?
+\item Does this sentence contains IN and JJ_cluster?
+\item Does this sentence contains IN and MD?
+\item Does this sentence contains IN and N_cluster?
+\item Does this sentence contains IN and PDT?
+\item Does this sentence contains IN and POS?
+\item Does this sentence contains IN and RB_cluster?
+\item Does this sentence contains IN and RP?
+\item Does this sentence contains IN and TO?
+\item Does this sentence contains IN and V_cluster?
+\item Does this sentence contains IN and W_cluster?
+\item Does this sentence contains JJ_cluster and CC?
+\item Does this sentence contains JJ_cluster and CD?
+\item Does this sentence contains JJ_cluster and DT?
+\item Does this sentence contains JJ_cluster and EX?
+\item Does this sentence contains JJ_cluster and IN?
+\item Does this sentence contains JJ_cluster and MD?
+\item Does this sentence contains JJ_cluster and N_cluster?
+\item Does this sentence contains JJ_cluster and PDT?
+\item Does this sentence contains JJ_cluster and POS?
+\item Does this sentence contains JJ_cluster and RB_cluster?
+\item Does this sentence contains JJ_cluster and RP?
+\item Does this sentence contains JJ_cluster and TO?
+\item Does this sentence contains JJ_cluster and V_cluster?
+\item Does this sentence contains JJ_cluster and W_cluster?
+\item Does this sentence contains MD and CC?
+\item Does this sentence contains MD and CD?
+\item Does this sentence contains MD and DT?
+\item Does this sentence contains MD and EX?
+\item Does this sentence contains MD and IN?
+\item Does this sentence contains MD and JJ_cluster?
+\item Does this sentence contains MD and N_cluster?
+\item Does this sentence contains MD and PDT?
+\item Does this sentence contains MD and POS?
+\item Does this sentence contains MD and RB_cluster?
+\item Does this sentence contains MD and RP?
+\item Does this sentence contains MD and TO?
+\item Does this sentence contains MD and V_cluster?
+\item Does this sentence contains MD and W_cluster?
+\item Does this sentence contains N_cluster and CC?
+\item Does this sentence contains N_cluster and CD?
+\item Does this sentence contains N_cluster and DT?
+\item Does this sentence contains N_cluster and EX?
+\item Does this sentence contains N_cluster and IN?
+\item Does this sentence contains N_cluster and JJ_cluster?
+\item Does this sentence contains N_cluster and MD?
+\item Does this sentence contains N_cluster and PDT?
+\item Does this sentence contains N_cluster and POS?
+\item Does this sentence contains N_cluster and RB_cluster?
+\item Does this sentence contains N_cluster and RP?
+\item Does this sentence contains N_cluster and TO?
+\item Does this sentence contains N_cluster and V_cluster?
+\item Does this sentence contains N_cluster and W_cluster?
+\item Does this sentence contains PDT and CC?
+\item Does this sentence contains PDT and CD?
+\item Does this sentence contains PDT and DT?
+\item Does this sentence contains PDT and EX?
+\item Does this sentence contains PDT and IN?
+\item Does this sentence contains PDT and JJ_cluster?
+\item Does this sentence contains PDT and MD?
+\item Does this sentence contains PDT and N_cluster?
+\item Does this sentence contains PDT and POS?
+\item Does this sentence contains PDT and RB_cluster?
+\item Does this sentence contains PDT and RP?
+\item Does this sentence contains PDT and TO?
+\item Does this sentence contains PDT and V_cluster?
+\item Does this sentence contains PDT and W_cluster?
+\item Does this sentence contains POS and CC?
+\item Does this sentence contains POS and CD?
+\item Does this sentence contains POS and DT?
+\item Does this sentence contains POS and EX?
+\item Does this sentence contains POS and IN?
+\item Does this sentence contains POS and JJ_cluster?
+\item Does this sentence contains POS and MD?
+\item Does this sentence contains POS and N_cluster?
+\item Does this sentence contains POS and PDT?
+\item Does this sentence contains POS and RB_cluster?
+\item Does this sentence contains POS and RP?
+\item Does this sentence contains POS and TO?
+\item Does this sentence contains POS and V_cluster?
+\item Does this sentence contains POS and W_cluster?
+\item Does this sentence contains RB_cluster and CC?
+\item Does this sentence contains RB_cluster and CD?
+\item Does this sentence contains RB_cluster and DT?
+\item Does this sentence contains RB_cluster and EX?
+\item Does this sentence contains RB_cluster and IN?
+\item Does this sentence contains RB_cluster and JJ_cluster?
+\item Does this sentence contains RB_cluster and MD?
+\item Does this sentence contains RB_cluster and N_cluster?
+\item Does this sentence contains RB_cluster and PDT?
+\item Does this sentence contains RB_cluster and POS?
+\item Does this sentence contains RB_cluster and RP?
+\item Does this sentence contains RB_cluster and TO?
+\item Does this sentence contains RB_cluster and V_cluster?
+\item Does this sentence contains RB_cluster and W_cluster?
+\item Does this sentence contains RP and CC?
+\item Does this sentence contains RP and CD?
+\item Does this sentence contains RP and DT?
+\item Does this sentence contains RP and EX?
+\item Does this sentence contains RP and IN?
+\item Does this sentence contains RP and JJ_cluster?
+\item Does this sentence contains RP and MD?
+\item Does this sentence contains RP and N_cluster?
+\item Does this sentence contains RP and PDT?
+\item Does this sentence contains RP and POS?
+\item Does this sentence contains RP and RB_cluster?
+\item Does this sentence contains RP and TO?
+\item Does this sentence contains RP and V_cluster?
+\item Does this sentence contains RP and W_cluster?
+\item Does this sentence contains TO and CC?
+\item Does this sentence contains TO and CD?
+\item Does this sentence contains TO and DT?
+\item Does this sentence contains TO and EX?
+\item Does this sentence contains TO and IN?
+\item Does this sentence contains TO and JJ_cluster?
+\item Does this sentence contains TO and MD?
+\item Does this sentence contains TO and N_cluster?
+\item Does this sentence contains TO and PDT?
+\item Does this sentence contains TO and POS?
+\item Does this sentence contains TO and RB_cluster?
+\item Does this sentence contains TO and RP?
+\item Does this sentence contains TO and V_cluster?
+\item Does this sentence contains TO and W_cluster?
+\item Does this sentence contains V_cluster and CC?
+\item Does this sentence contains V_cluster and CD?
+\item Does this sentence contains V_cluster and DT?
+\item Does this sentence contains V_cluster and EX?
+\item Does this sentence contains V_cluster and IN?
+\item Does this sentence contains V_cluster and JJ_cluster?
+\item Does this sentence contains V_cluster and MD?
+\item Does this sentence contains V_cluster and N_cluster?
+\item Does this sentence contains V_cluster and PDT?
+\item Does this sentence contains V_cluster and POS?
+\item Does this sentence contains V_cluster and RB_cluster?
+\item Does this sentence contains V_cluster and RP?
+\item Does this sentence contains V_cluster and TO?
+\item Does this sentence contains V_cluster and W_cluster?
+\item Does this sentence contains W_cluster and CC?
+\item Does this sentence contains W_cluster and CD?
+\item Does this sentence contains W_cluster and DT?
+\item Does this sentence contains W_cluster and EX?
+\item Does this sentence contains W_cluster and IN?
+\item Does this sentence contains W_cluster and JJ_cluster?
+\item Does this sentence contains W_cluster and MD?
+\item Does this sentence contains W_cluster and N_cluster?
+\item Does this sentence contains W_cluster and PDT?
+\item Does this sentence contains W_cluster and POS?
+\item Does this sentence contains W_cluster and RB_cluster?
+\item Does this sentence contains W_cluster and RP?
+\item Does this sentence contains W_cluster and TO?
+\item Does this sentence contains W_cluster and V_cluster?

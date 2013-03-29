@@ -1,0 +1,505 @@
+1 NOTHING
+2 NOTHING
+3 NOTHING
+4 NOTHING
+5 NOTHING
+6 NOTHING
+7 CC
+8 CD
+9 DT
+10 EX
+11 IN
+12 JJ_cluster
+13 MD
+14 N_cluster
+15 PDT
+16 POS
+17 RB_cluster
+18 RP
+19 TO
+20 V_cluster
+21 W_cluster
+22 CC
+23 CD
+24 DT
+25 EX
+26 IN
+27 JJ_cluster
+28 MD
+29 N_cluster
+30 PDT
+31 POS
+32 RB_cluster
+33 RP
+34 TO
+35 V_cluster
+36 W_cluster
+37 CC CC
+38 CC CD
+39 CC DT
+40 CC EX
+41 CC IN
+42 CC JJ_cluster
+43 CC MD
+44 CC N_cluster
+45 CC PDT
+46 CC POS
+47 CC RB_cluster
+48 CC RP
+49 CC TO
+50 CC V_cluster
+51 CC W_cluster
+52 CD CC
+53 CD CD
+54 CD DT
+55 CD EX
+56 CD IN
+57 CD JJ_cluster
+58 CD MD
+59 CD N_cluster
+60 CD PDT
+61 CD POS
+62 CD RB_cluster
+63 CD RP
+64 CD TO
+65 CD V_cluster
+66 CD W_cluster
+67 DT CC
+68 DT CD
+69 DT DT
+70 DT EX
+71 DT IN
+72 DT JJ_cluster
+73 DT MD
+74 DT N_cluster
+75 DT PDT
+76 DT POS
+77 DT RB_cluster
+78 DT RP
+79 DT TO
+80 DT V_cluster
+81 DT W_cluster
+82 EX CC
+83 EX CD
+84 EX DT
+85 EX EX
+86 EX IN
+87 EX JJ_cluster
+88 EX MD
+89 EX N_cluster
+90 EX PDT
+91 EX POS
+92 EX RB_cluster
+93 EX RP
+94 EX TO
+95 EX V_cluster
+96 EX W_cluster
+97 IN CC
+98 IN CD
+99 IN DT
+100 IN EX
+101 IN IN
+102 IN JJ_cluster
+103 IN MD
+104 IN N_cluster
+105 IN PDT
+106 IN POS
+107 IN RB_cluster
+108 IN RP
+109 IN TO
+110 IN V_cluster
+111 IN W_cluster
+112 JJ_cluster CC
+113 JJ_cluster CD
+114 JJ_cluster DT
+115 JJ_cluster EX
+116 JJ_cluster IN
+117 JJ_cluster JJ_cluster
+118 JJ_cluster MD
+119 JJ_cluster N_cluster
+120 JJ_cluster PDT
+121 JJ_cluster POS
+122 JJ_cluster RB_cluster
+123 JJ_cluster RP
+124 JJ_cluster TO
+125 JJ_cluster V_cluster
+126 JJ_cluster W_cluster
+127 MD CC
+128 MD CD
+129 MD DT
+130 MD EX
+131 MD IN
+132 MD JJ_cluster
+133 MD MD
+134 MD N_cluster
+135 MD PDT
+136 MD POS
+137 MD RB_cluster
+138 MD RP
+139 MD TO
+140 MD V_cluster
+141 MD W_cluster
+142 N_cluster CC
+143 N_cluster CD
+144 N_cluster DT
+145 N_cluster EX
+146 N_cluster IN
+147 N_cluster JJ_cluster
+148 N_cluster MD
+149 N_cluster N_cluster
+150 N_cluster PDT
+151 N_cluster POS
+152 N_cluster RB_cluster
+153 N_cluster RP
+154 N_cluster TO
+155 N_cluster V_cluster
+156 N_cluster W_cluster
+157 PDT CC
+158 PDT CD
+159 PDT DT
+160 PDT EX
+161 PDT IN
+162 PDT JJ_cluster
+163 PDT MD
+164 PDT N_cluster
+165 PDT PDT
+166 PDT POS
+167 PDT RB_cluster
+168 PDT RP
+169 PDT TO
+170 PDT V_cluster
+171 PDT W_cluster
+172 POS CC
+173 POS CD
+174 POS DT
+175 POS EX
+176 POS IN
+177 POS JJ_cluster
+178 POS MD
+179 POS N_cluster
+180 POS PDT
+181 POS POS
+182 POS RB_cluster
+183 POS RP
+184 POS TO
+185 POS V_cluster
+186 POS W_cluster
+187 RB_cluster CC
+188 RB_cluster CD
+189 RB_cluster DT
+190 RB_cluster EX
+191 RB_cluster IN
+192 RB_cluster JJ_cluster
+193 RB_cluster MD
+194 RB_cluster N_cluster
+195 RB_cluster PDT
+196 RB_cluster POS
+197 RB_cluster RB_cluster
+198 RB_cluster RP
+199 RB_cluster TO
+200 RB_cluster V_cluster
+201 RB_cluster W_cluster
+202 RP CC
+203 RP CD
+204 RP DT
+205 RP EX
+206 RP IN
+207 RP JJ_cluster
+208 RP MD
+209 RP N_cluster
+210 RP PDT
+211 RP POS
+212 RP RB_cluster
+213 RP RP
+214 RP TO
+215 RP V_cluster
+216 RP W_cluster
+217 TO CC
+218 TO CD
+219 TO DT
+220 TO EX
+221 TO IN
+222 TO JJ_cluster
+223 TO MD
+224 TO N_cluster
+225 TO PDT
+226 TO POS
+227 TO RB_cluster
+228 TO RP
+229 TO TO
+230 TO V_cluster
+231 TO W_cluster
+232 V_cluster CC
+233 V_cluster CD
+234 V_cluster DT
+235 V_cluster EX
+236 V_cluster IN
+237 V_cluster JJ_cluster
+238 V_cluster MD
+239 V_cluster N_cluster
+240 V_cluster PDT
+241 V_cluster POS
+242 V_cluster RB_cluster
+243 V_cluster RP
+244 V_cluster TO
+245 V_cluster V_cluster
+246 V_cluster W_cluster
+247 W_cluster CC
+248 W_cluster CD
+249 W_cluster DT
+250 W_cluster EX
+251 W_cluster IN
+252 W_cluster JJ_cluster
+253 W_cluster MD
+254 W_cluster N_cluster
+255 W_cluster PDT
+256 W_cluster POS
+257 W_cluster RB_cluster
+258 W_cluster RP
+259 W_cluster TO
+260 W_cluster V_cluster
+261 W_cluster W_cluster
+262 (
+263 )
+264 ,
+265 .
+266 :
+267 CC
+268 CD
+269 DT
+270 EX
+271 IN
+272 JJ
+273 JJR
+274 JJS
+275 MD
+276 NN
+277 NNP
+278 NNPS
+279 NNS
+280 POS
+281 PRP
+282 PRP$
+283 RB
+284 RBR
+285 RP
+286 TO
+287 VB
+288 VBD
+289 VBG
+290 VBN
+291 VBP
+292 VBZ
+293 WDT
+294 WP
+295 WRB
+296 CC CD
+297 CC DT
+298 CC EX
+299 CC IN
+300 CC JJ_cluster
+301 CC MD
+302 CC N_cluster
+303 CC PDT
+304 CC POS
+305 CC RB_cluster
+306 CC RP
+307 CC TO
+308 CC V_cluster
+309 CC W_cluster
+310 CD CC
+311 CD DT
+312 CD EX
+313 CD IN
+314 CD JJ_cluster
+315 CD MD
+316 CD N_cluster
+317 CD PDT
+318 CD POS
+319 CD RB_cluster
+320 CD RP
+321 CD TO
+322 CD V_cluster
+323 CD W_cluster
+324 DT CC
+325 DT CD
+326 DT EX
+327 DT IN
+328 DT JJ_cluster
+329 DT MD
+330 DT N_cluster
+331 DT PDT
+332 DT POS
+333 DT RB_cluster
+334 DT RP
+335 DT TO
+336 DT V_cluster
+337 DT W_cluster
+338 EX CC
+339 EX CD
+340 EX DT
+341 EX IN
+342 EX JJ_cluster
+343 EX MD
+344 EX N_cluster
+345 EX PDT
+346 EX POS
+347 EX RB_cluster
+348 EX RP
+349 EX TO
+350 EX V_cluster
+351 EX W_cluster
+352 IN CC
+353 IN CD
+354 IN DT
+355 IN EX
+356 IN JJ_cluster
+357 IN MD
+358 IN N_cluster
+359 IN PDT
+360 IN POS
+361 IN RB_cluster
+362 IN RP
+363 IN TO
+364 IN V_cluster
+365 IN W_cluster
+366 JJ_cluster CC
+367 JJ_cluster CD
+368 JJ_cluster DT
+369 JJ_cluster EX
+370 JJ_cluster IN
+371 JJ_cluster MD
+372 JJ_cluster N_cluster
+373 JJ_cluster PDT
+374 JJ_cluster POS
+375 JJ_cluster RB_cluster
+376 JJ_cluster RP
+377 JJ_cluster TO
+378 JJ_cluster V_cluster
+379 JJ_cluster W_cluster
+380 MD CC
+381 MD CD
+382 MD DT
+383 MD EX
+384 MD IN
+385 MD JJ_cluster
+386 MD N_cluster
+387 MD PDT
+388 MD POS
+389 MD RB_cluster
+390 MD RP
+391 MD TO
+392 MD V_cluster
+393 MD W_cluster
+394 N_cluster CC
+395 N_cluster CD
+396 N_cluster DT
+397 N_cluster EX
+398 N_cluster IN
+399 N_cluster JJ_cluster
+400 N_cluster MD
+401 N_cluster PDT
+402 N_cluster POS
+403 N_cluster RB_cluster
+404 N_cluster RP
+405 N_cluster TO
+406 N_cluster V_cluster
+407 N_cluster W_cluster
+408 PDT CC
+409 PDT CD
+410 PDT DT
+411 PDT EX
+412 PDT IN
+413 PDT JJ_cluster
+414 PDT MD
+415 PDT N_cluster
+416 PDT POS
+417 PDT RB_cluster
+418 PDT RP
+419 PDT TO
+420 PDT V_cluster
+421 PDT W_cluster
+422 POS CC
+423 POS CD
+424 POS DT
+425 POS EX
+426 POS IN
+427 POS JJ_cluster
+428 POS MD
+429 POS N_cluster
+430 POS PDT
+431 POS RB_cluster
+432 POS RP
+433 POS TO
+434 POS V_cluster
+435 POS W_cluster
+436 RB_cluster CC
+437 RB_cluster CD
+438 RB_cluster DT
+439 RB_cluster EX
+440 RB_cluster IN
+441 RB_cluster JJ_cluster
+442 RB_cluster MD
+443 RB_cluster N_cluster
+444 RB_cluster PDT
+445 RB_cluster POS
+446 RB_cluster RP
+447 RB_cluster TO
+448 RB_cluster V_cluster
+449 RB_cluster W_cluster
+450 RP CC
+451 RP CD
+452 RP DT
+453 RP EX
+454 RP IN
+455 RP JJ_cluster
+456 RP MD
+457 RP N_cluster
+458 RP PDT
+459 RP POS
+460 RP RB_cluster
+461 RP TO
+462 RP V_cluster
+463 RP W_cluster
+464 TO CC
+465 TO CD
+466 TO DT
+467 TO EX
+468 TO IN
+469 TO JJ_cluster
+470 TO MD
+471 TO N_cluster
+472 TO PDT
+473 TO POS
+474 TO RB_cluster
+475 TO RP
+476 TO V_cluster
+477 TO W_cluster
+478 V_cluster CC
+479 V_cluster CD
+480 V_cluster DT
+481 V_cluster EX
+482 V_cluster IN
+483 V_cluster JJ_cluster
+484 V_cluster MD
+485 V_cluster N_cluster
+486 V_cluster PDT
+487 V_cluster POS
+488 V_cluster RB_cluster
+489 V_cluster RP
+490 V_cluster TO
+491 V_cluster W_cluster
+492 W_cluster CC
+493 W_cluster CD
+494 W_cluster DT
+495 W_cluster EX
+496 W_cluster IN
+497 W_cluster JJ_cluster
+498 W_cluster MD
+499 W_cluster N_cluster
+500 W_cluster PDT
+501 W_cluster POS
+502 W_cluster RB_cluster
+503 W_cluster RP
+504 W_cluster TO
+505 W_cluster V_cluster
